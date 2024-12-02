@@ -1,4 +1,4 @@
-#Soft Fruit Genetic Improvement Network (SFGIN)
+# Soft Fruit Genetic Improvement Network (SFGIN)
 
 The soft-fruit Genetic Improvement Network (GIN) will provide a platform for the genetic improvement of the major soft fruit crops in the UK, a space for knowledge exchange and training to deliver the knowledge into industry outputs. The project will enable the soft-fruit sector to generate improvements in sustainability, resilience and resource-use efficiency that fit into the UK Government’s Net Zero Strategy, which intends to halve net UK emissions in around a decade and eliminate them by 2050, while at the same time maintaining quality and nutritional standards as well as economic production. Research and development towards these goals through a soft-fruit GIN will provide vital knowledge, tools and germplasm resources to enable the soft-fruit industry to meet these goals and deliver significant benefits towards the public good.
 
